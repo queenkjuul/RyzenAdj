@@ -1,0 +1,60 @@
+ryzenadj (0.15.0-qkj3ubuntu7) noble; urgency=low
+
+  * rebuild of 6
+
+ -- queenkjuul <queenkjuul@pm.me>  Tue, 06 Aug 2024 04:49:34 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu6) noble; urgency=low
+
+  * version qkj3ubuntu5 IS BAD DO NOT USE (it will stick an unwanted file in /)
+  * this build fixes that, and gets manpage installed once and for all
+
+ -- queenkjuul <queenkjuul@pm.me>  Sun, 04 Aug 2024 10:20:23 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu5) noble; urgency=low
+
+  * actually tried one more time after failed build
+
+ -- queenkjuul <queenkjuul@pm.me>  Sun, 04 Aug 2024 08:19:17 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu4) noble; urgency=low
+
+  * last try
+
+ -- queenkjuul <queenkjuul@pm.me>  Sun, 04 Aug 2024 08:13:10 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu3) noble; urgency=medium
+
+  * yet another attempt to get manpage working
+
+ -- qkj <queenkjuul@pm.me>  Sun, 04 Aug 2024 08:05:30 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu2) noble; urgency=medium
+
+  * Still trying to fix manpage
+
+ -- qkj <queenkjuul@pm.me>  Sun, 04 Aug 2024 07:58:33 -0500
+
+ryzenadj (0.15.0-qkj3ubuntu1) noble; urgency=medium
+
+  * Another attempt to fix manpage
+
+ -- qkj <queenkjuul@pm.me>  Sun, 04 Aug 2024 07:33:45 -0500
+
+ryzenadj (0.15.0-qkj3build2) noble; urgency=medium
+
+  * More build/manpage fixes, attempting...
+
+ -- qkj <queenkjuul@pm.me>  Sun, 04 Aug 2024 06:51:08 -0500
+
+ryzenadj (0.15.0-qkj3build1) noble; urgency=medium
+
+  * Fix README.md/manpage.1 issue
+
+ -- qkj <queenkjuul@pm.me>  Sun, 04 Aug 2024 06:31:33 -0500
+
+ryzenadj (0.15.0-qkj3) noble; urgency=medium
+
+  * Initial release.
+
+ -- queenkjuul <queenkjuul@pm.me>  Sun, 04 Aug 2024 06:25:13 -0500
