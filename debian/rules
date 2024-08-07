@@ -1,6 +1,6 @@
 #!/usr/bin/make -f
 
-BUILDDIR = build_dir
+BUILDDIR = build
 
 export DH_ALWAYS_EXCLUDE=build:win32
 
@@ -37,9 +37,6 @@ clean:
 	rm -rf debian/tmp
 	rm -rf debian/.debhelper
 	rm -rf $(BUILDDIR)
-
-override_dh_auto_build:
-	pandoc -s -f markdown -t man README.md -o debian/ryzenadj.1
-	dh_auto_build
+	touch debian/files
 
 .PHONY: binary binary-arch binary-indep clean

@@ -1,5 +1,3 @@
-_This fork follows only RELEASES from upstream <https://github.com/FlyGoat/RyzenAdj>. Use the upstream repo for build instructions or for Windows binaries. Changes made here are used in <https://github.com/queenkjuul/ryzenadj-deb> to upload binaries to <https://launchpad.net/~queenkjuul/+archive/ubuntu/ryzen-tools>. Use the PPA on Ubuntu if you are so inclined._
-
 # RyzenAdj
 Adjust power management settings for Ryzen Mobile Processors.
 

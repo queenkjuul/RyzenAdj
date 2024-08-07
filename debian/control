@@ -9,7 +9,6 @@ Build-Depends: debhelper-compat (= 13),
   pandoc,
 Standards-Version: 4.6.2
 Homepage: https://github.com/FlyGoat/RyzenAdj
-#Vcs-Browser: https://salsa.debian.org/debian/ryzenadj
 Vcs-Git: https://github.com/FlyGoat/RyzenAdj.git
 
 Package: ryzenadj
