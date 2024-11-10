@@ -1,3 +1,15 @@
+ryzenadj (0.15.0-qkj3ubuntu9) oracular; urgency=low
+
+  * re-release for 24.10 Oracular Oriole
+
+ -- queenkjuul <queenkjuul@pm.me>  Sun, 10 Nov 2024 02:28:35 -0600
+
+ryzenadj (0.15.0-qkj3ubuntu8) noble; urgency=low
+
+  * Add policykit action definition for ryzenadj
+
+ -- queenkjuul <queenkjuul@pm.me>  Sat, 17 Aug 2024 08:23:50 -0500
+
 ryzenadj (0.15.0-qkj3ubuntu7) noble; urgency=low
 
   * rebuild of 6
